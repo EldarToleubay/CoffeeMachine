@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CoffeeMachine {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int water = 400;
+        int water = 600;
         int milk = 540;
         int beans = 120;
         int cups = 9;
