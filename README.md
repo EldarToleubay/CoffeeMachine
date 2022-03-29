@@ -7,4 +7,8 @@ This is an update of the Readme file.
 Update from the first-branch
 
 
+Updated by Alnur
+
+
 // Zhassurbek
+
