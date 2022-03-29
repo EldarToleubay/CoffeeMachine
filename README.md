@@ -6,9 +6,10 @@ This is an update of the Readme file.
 
 Update from the first-branch
 
+Ruslan
+Hello dude
 
 Updated by Alnur
 
 
 // Zhassurbek
-
