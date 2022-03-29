@@ -5,3 +5,6 @@ A project that I created while studying at JetBrains Academy. The program is a f
 This is an update of the Readme file.
 
 Update from the first-branch
+
+
+// Zhassurbek
